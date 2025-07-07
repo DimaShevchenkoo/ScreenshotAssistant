@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ScreenshotAssistant",
+	"Description": "For internal usage",
+	"Category": "Other",
+	"CreatedBy": "ArmlessMaster",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ScreenshotAssistant",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
