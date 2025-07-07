@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ScreenshotAssistant.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"W:\Git\GRISIN_DMITRII_Car-Dealer-Simulator\Intermediate\Build\Win64\x64\DefaultProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"W:\Git\GRISIN_DMITRII_Car-Dealer-Simulator\Plugins\ScreenshotAssistant\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScreenshotAssistant\ScreenshotAssistant.cpp.obj"
+"W:\Git\GRISIN_DMITRII_Car-Dealer-Simulator\Plugins\ScreenshotAssistant\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScreenshotAssistant\PerModuleInline.gen.cpp.obj"
+"W:\Git\GRISIN_DMITRII_Car-Dealer-Simulator\Plugins\ScreenshotAssistant\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScreenshotAssistant\Default.rc2.res"
+/OUT:"W:\Git\GRISIN_DMITRII_Car-Dealer-Simulator\Plugins\ScreenshotAssistant\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScreenshotAssistant\UnrealEditor-ScreenshotAssistant.lib"

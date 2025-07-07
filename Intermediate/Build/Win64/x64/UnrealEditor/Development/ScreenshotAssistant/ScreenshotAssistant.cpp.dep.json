@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "w:\\git\\grisin_dmitrii_car-dealer-simulator\\plugins\\screenshotassistant\\source\\screenshotassistant\\private\\screenshotassistant.cpp",
+        "ProvidedModule": "",
+        "PCH": "w:\\git\\grisin_dmitrii_car-dealer-simulator\\intermediate\\build\\win64\\x64\\defaultprojecteditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "w:\\git\\grisin_dmitrii_car-dealer-simulator\\plugins\\screenshotassistant\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\screenshotassistant\\definitions.screenshotassistant.h",
+            "w:\\git\\grisin_dmitrii_car-dealer-simulator\\plugins\\screenshotassistant\\source\\screenshotassistant\\public\\screenshotassistant.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
